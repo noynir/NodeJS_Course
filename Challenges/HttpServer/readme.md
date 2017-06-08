@@ -1,4 +1,4 @@
-Http Server
+## Http server
 
  Build a simple Http static files server,
  The server should accept http request and serve the file with an appropriate mime type.
